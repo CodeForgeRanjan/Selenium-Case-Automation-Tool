@@ -17,7 +17,7 @@ COLUMN_NAME = "caseNo"
 FAILED_FILE = "failed_cases.xlsx"
 LOG_FILE = "automation_log.txt"
 
-# URL 
+# URL
 
 BASE_URL = ""
 HOME_URL = ""
